@@ -1,0 +1,30 @@
+{
+  "name": "superstacktrace",
+  "version": "1.0.0",
+  "description": "Long stack traces for Node.js",
+  "main": "index.js",
+  "devDependencies": {
+    "mocha": "^2.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nitely/superstacktrace"
+  },
+  "keywords": [
+    "stack",
+    "trace",
+    "long"
+  ],
+  "author": "Esteban Castro Borsani <ecastroborsani@gmail.com> (https://github.com/nitely)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nitely/superstacktrace/issues"
+  },
+  "homepage": "https://github.com/nitely/superstacktrace",
+  "dependencies": {
+    "async-listener": "^0.5.1"
+  }
+}

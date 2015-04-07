@@ -41,6 +41,8 @@ AsyncListener.error = function error(stack, err) {
     if (stack) {
         err.stack += '\n' + stack.getStacks().join('\n');
     }
+
+    currentStack = null;
 };
 
 

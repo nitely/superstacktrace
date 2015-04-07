@@ -16,7 +16,7 @@ which is a polyfill for an experimental API that had a short-life in node.js (v0
 $ npm install superstacktrace
 ```
 
-Tested on latest [iojs](https://iojs.org)
+Tested on [iojs](https://iojs.org) v1.6.3.
 
 # Example
 

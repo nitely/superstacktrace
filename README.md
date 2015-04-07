@@ -41,7 +41,7 @@ From previous event:
     at Timer.listOnTimeout (timers.js:89:15)
 ```
 
-> There are some lines including the async-listener library, I thought about filtering them,
+> There are some lines including the async-listener library, I thought about filtering them out,
 but then I realise, if that's the real cause of the error it would be hidden.
 
 # Running tests

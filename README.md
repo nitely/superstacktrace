@@ -29,7 +29,7 @@ require('superstacktrace');
 Stack trace example:
 
 ```
-Error: Unhandled error!
+Error: boom!
     at /home/user/project/test/test.js:166:23
     at /home/user/project/node_modules/async-listener/glue.js:188:31
     at process._tickDomainCallback [as _tickCallback] (node.js:366:13)
